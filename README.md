@@ -1,1 +1,1 @@
-# Next Js with Contentful Blog App
+# Next Js,Tailwind, Typescipt with Contentful Blog App
